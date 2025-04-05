@@ -4,7 +4,6 @@
       Simultaneously, strengthening my programming foundations by exploring Object-Oriented Programming (OOP) concepts in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 For collaborations, opportunities, or just to say hello, feel free to reach me at sohelansari817@gmail.com.
-- 😄 Frontend developer
 - ⚡ When I'm not coding, you can find me recharging my batteries with a good nap or fueling my next coding session with delicious food 🤓 !
 
 <!---
